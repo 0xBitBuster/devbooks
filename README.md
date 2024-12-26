@@ -13,4 +13,5 @@ Website for Devbooks, a collection of Colorful, Fun and Practical Developer Book
 - … and so much more!!!
 
 **Discord**
+
 Need help with these books? Join the DevBooks Discord to ask questions, learn together and connect with other devs: [https://discord.gg/bVTFpc6rQr](https://discord.gg/bVTFpc6rQr)
