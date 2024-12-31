@@ -80,7 +80,7 @@ function Contact() {
         </div>
       </div>
       <footer className="w-full max-w-[1284px] flex items-center justify-end">
-        <img src="/logo_transparent.png" className="w-20 mr-6" />
+        <img src="/logo_transparent.png" className="w-20 mr-6" alt="" />
         <div className="text-lg mr-20">
           <p>
             &copy; Tobias Scharl
